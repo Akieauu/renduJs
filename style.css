@@ -1,0 +1,47 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin: auto;
+    max-width: 130em;
+}
+
+.font {
+    font-family: "Epilogue", sans-serif;
+}
+
+header {
+    background-color: rgb(50, 48, 48);
+    color: white;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+}
+
+.btn {
+    padding: 10px;
+    
+}
+
+#a {
+    padding: 0;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.j-content {
+    justify-content: space-around;
+    align-items: center;
+}
+
+#img {
+    width: 100px;
+    height: 100px;
+}
